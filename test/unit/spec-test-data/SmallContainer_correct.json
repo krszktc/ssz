@@ -1,0 +1,10 @@
+{
+  "type": "SmallContainer",
+  "data": {
+    "a": "0xaaaaaaaaaaaaaaaa",
+    "b": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "c": "0xcccccccccccccccc"
+  },
+  "valid": true,
+  "treeRoot": "0xaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcccccccccccccccc"
+}

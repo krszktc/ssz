@@ -1,0 +1,16 @@
+{
+  "type": "ExampleContainer",
+  "data": {
+    "extra_key_1": "0x0000000000000000",
+    "a": "0xaaaaaaaaaaaaaaaa",
+    "b": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "c": "0xcccccccccccccccccccccccccccccccc",
+    "extra_key_2": "0x0000000000000000",
+    "d": "0xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+    "e": "0xeeeeeeeeeeeeeeee",
+    "f": "0xffffffffffffffff",
+    "extra_key_3": "0x0000000000000000"
+  },
+  "valid": true,
+  "treeRoot": "0x4278118c38f02679efc01a9075510abe00747b01705c9add495053d88604ce95"
+}

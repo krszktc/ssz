@@ -1,0 +1,12 @@
+{
+  "type": "ExampleContainer",
+  "data": {
+    "a": "0xaaaaaaaaaaaaaaaa",
+    "b": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "c": "0xcccccccccccccccccccccccccccccccc",
+    "d": "0xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+    "e": "0xeeeeeeeeeeeeeeee"
+  },
+  "valid": false,
+  "errorCode": "MISSING_KEY"
+}

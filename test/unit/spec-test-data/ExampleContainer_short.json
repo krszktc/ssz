@@ -1,0 +1,13 @@
+{
+  "type": "ExampleContainer",
+  "data": {
+    "a": "0xaa",
+    "b": "0xaa",
+    "c": "0xaa",
+    "d": "0xaa",
+    "e": "0xaa",
+    "f": "0xaa"
+  },
+  "valid": true,
+  "treeRoot": "0xb0000679e2b3eb060ae5e480aacb7038d2739ae077df80262aa4d6446b0e4bd1"
+}
